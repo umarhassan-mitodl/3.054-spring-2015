@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides an introduction to the course, an outline
   of course topics, and information on meeting times, prerequisites, the course text,
   additional references, grading, and academic integrity.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
