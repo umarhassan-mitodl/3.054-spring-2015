@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains examples of student projects from the class.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

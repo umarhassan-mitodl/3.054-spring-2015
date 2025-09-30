@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding lecture
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/03390fd366e4b6b5f45b66c17c6e6f95_MIT3_054S15_L3_Struct.pdf
 file_size: 4101760
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
