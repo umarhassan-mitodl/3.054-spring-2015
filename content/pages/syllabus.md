@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an introduction to the course, an outline
   of course topics, and information on meeting times, prerequisites, the course text,
   additional references, grading, and academic integrity.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,12 +27,12 @@ In this subject, we review the structure and mechanical behavior of honeycombs a
 Text
 ----
 
-Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with [Google Books](http://books.google.com/books?id=IySUr5sn4N8C&pg=PAfrontcover)\]
+Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with {{% resource_link "0f6b5102-d9f7-412a-bfa3-049d3355a858" "Google Books" %}}\]
 
 Additional Reference
 --------------------
 
-Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with [Google Books](http://books.google.com/books?id=AKxiS4AKpyEC&pg=PAfrontcover)\]
+Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with {{% resource_link "9cbd5ae2-d624-46f9-bcad-a58ba5fd92e0" "Google Books" %}}\]
 
 Grading
 -------
@@ -85,7 +83,7 @@ Project
 Academic Integrity
 ------------------
 
-You may discuss problem sets with other students but the work you submit must be your own. For more information, see the [MIT website on academic integrity](http://integrity.mit.edu), which has the Handbook on Academic Integrity.
+You may discuss problem sets with other students but the work you submit must be your own. For more information, see the {{% resource_link "bcd58f2a-584f-4271-a837-4ea469b8f831" "MIT website on academic integrity" %}}, which has the Handbook on Academic Integrity.
 
 Topics
 ------

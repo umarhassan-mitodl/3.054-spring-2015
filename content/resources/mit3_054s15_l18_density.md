@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding lecture
 file: /courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/a051495e5bc59d80a9dbccd5fc78be30_MIT3_054S15_L18_density.pdf
 file_size: 8163733
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

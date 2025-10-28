@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course topics, slides with handwritten
   notes, and slides with notes transcribed for accessibility.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -15,11 +13,11 @@ The lecture notes for this course have been transcribed for accessibility. The h
 
 Some of the images originally contained in these notes have been excluded due to copyright restrictions. To see more of the images, please refer to the following books:
 
-*   Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with [Google Books](http://books.google.com/books?id=IySUr5sn4N8C&pg=PAfrontcover)\]
-*   Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with [Google Books](http://books.google.com/books?id=AKxiS4AKpyEC&pg=PAfrontcover)\]
-*   Ashby, M. F., A. G. Evans, et al. _Metal Foams: A Design Guide_. Society of Automotive Engineers Incorporated, 2000. ISBN: 9780768005554. \[Preview with [Google Books](http://books.google.com/books?id=C0daIBo6LjgC&pg=PAfrontcover)\]
+*   Gibson, L. J., and M. F. Ashby. _Cellular Solids: Structure and Properties_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521495608. \[Preview with {{% resource_link "0f6b5102-d9f7-412a-bfa3-049d3355a858" "Google Books" %}}\]
+*   Gibson, L. J., M. F. Ashby, and B. A. Harley. _Cellular Materials in Nature and Medicine_. Cambridge University Press, 2010. ISBN: 9780521195447. \[Preview with {{% resource_link "9cbd5ae2-d624-46f9-bcad-a58ba5fd92e0" "Google Books" %}}\]
+*   Ashby, M. F., A. G. Evans, et al. _Metal Foams: A Design Guide_. Society of Automotive Engineers Incorporated, 2000. ISBN: 9780768005554. \[Preview with {{% resource_link "ba4a3412-781f-4784-8ba2-947129a7cca0" "Google Books" %}}\]
 
-Because the following materials are primarily visual, viewing these files in a web browser is not recommended. We suggest that you download and view these files with [Adobe Reader](https://get.adobe.com/reader/) or another PDF reader in order to see them as intended.
+Because the following materials are primarily visual, viewing these files in a web browser is not recommended. We suggest that you download and view these files with {{% resource_link "816b7960-7277-45ed-a640-d49e399027d2" "Adobe Reader" %}} or another PDF reader in order to see them as intended.
 
 {{< tableopen >}}
 {{< theadopen >}}
